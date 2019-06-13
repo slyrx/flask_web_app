@@ -10,4 +10,4 @@ flask walking through
 
 ## 设计理念--工作方式
 + 请求和响应
-+ + ![请求和响应_请求钩子](./img/flask_request_response.png)
+![请求和响应_请求钩子](./img/flask_request_response.png)
