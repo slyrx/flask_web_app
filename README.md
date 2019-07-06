@@ -50,3 +50,21 @@ flask walking through
 - 应用编程接口
   - REST 简介
   - 使用Flask提供REST web服务
+
+## flask 项目结构
+对 flask 项目的说明，
+##### 文件夹说明
++ flask 程序一般都保存在名为 app 的包中
++ migrations 文件夹包含数据库迁移脚本
++ tests 文件夹包含单元测试
++ venv 文件夹包含 python 虚拟环境
+
+##### 文件说明
++ requirements.txt 列出了所有依赖包，便于在其他电脑中重新生成相同的虚拟环境
++ config.py 存储配置
++ manage.py 用于启动程序以及其他的程序任务。
+
+
+
+
+
